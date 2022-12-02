@@ -10,7 +10,7 @@ body.appendChild(humburger);
 
 humburger.setAttribute(
     "style",
-    "margin-top:20px; margin-left:30px; display:inline-block; vertical-align:top; margin-right: 10px; cursor:pointer"
+    "margin-top:25px; margin-left:35px; display:inline-block; vertical-align:top; margin-right: 10px; cursor:pointer"
 );
 
 const humburgerItemOne = document.createElement("span");
